@@ -4,6 +4,13 @@
 
 ---
 
+### 🔗 Connect & Technical Portfolio
+* 💼 LinkedIn Profile: [linkedin.com/in/precious-nwafor-99756a35a](https://www.linkedin.com/in/precious-nwafor-99756a35a/)
+* ✍️ Technical Blog: [dev.to/precious_nwafor](https://dev.to/precious_nwafor)
+* 📜 Verified Credentials: [View My Microsoft Certifications](https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/)
+
+---
+
 ### 🚀 About Me
 
 * ☁️ Azure Specialist: Hold validated Microsoft Applied Skills credentials proving hands-on capabilities in Azure cloud networking, security, management, and storage operations.
@@ -24,13 +31,13 @@
 
 ---
 
-### ⚙️ Microsoft Applied Skills (Verified Lab Credentials)
+### ⚙️ Microsoft Applied Skills (Click to Verify Credentials)
 
-* ✔️ Configure secure access to your workloads using Azure networking
-* ✔️ Get started with cloud security and monitoring tasks
-* ✔️ Secure storage for Azure Files and Azure Blob Storage
-* ✔️ Get started with Azure management tasks
-* ✔️ Accelerate AI-assisted development by using GitHub Copilot
+* ✔️ [Configure secure access to your workloads using Azure networking](https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/)
+* ✔️ [Get started with cloud security and monitoring tasks](https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/)
+* ✔️ [Secure storage for Azure Files and Azure Blob Storage](https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/)
+* ✔️ [Get started with Azure management tasks](https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/)
+* ✔️ [Accelerate AI-assisted development by using GitHub Copilot](https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/)
 
 ---
 
