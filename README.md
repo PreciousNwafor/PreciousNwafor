@@ -1,7 +1,7 @@
 
 <!-- ===== PROFILE BANNER ===== -->
 <p align="center">
-  <img src="profile-banner.png"
+  <img src="Banner%20Image.jpg"
        alt="Precious Uchechukwu Nwafor | Cloud Engineering and DevOps"
        width="100%" />
 </p>
