@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./Support.jpg." width="100%" alt="Precious Nwafor profile banner"/>
+<img src="./Support.jpg" width="100%" alt="Precious Nwafor profile banner"/>
 
 <p>
   <a href="https://www.linkedin.com/in/precious-nwafor-99756a35a/">
