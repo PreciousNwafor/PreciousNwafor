@@ -36,7 +36,7 @@ My background also includes AI data operations, customer support, research, and 
 
 ## Focus Areas
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -91,15 +91,40 @@ My background also includes AI data operations, customer support, research, and 
 
 ## Technical Toolkit
 
-| Area | Tools and Technologies |
-|---|---|
-| Cloud | Microsoft Azure, Azure Networking, Azure Storage, Security, Monitoring |
-| Systems | Linux, Bash, Git, GitHub |
-| DevOps | Docker, Kubernetes — currently learning |
-| AI & Data | Annotation, AI Evaluation, Research, Data Collection |
-| Analytics | Microsoft Excel, Power BI |
-| Customer Support | Halo ITSM, Zendesk, Zoom Workforce, Salesforce, HubSpot, Jira Management System |
-| AI Work Platforms | Turing, Blend, Micro1, SME Careers, Passiflora AI |
+<table width="100%">
+<tr>
+<th align="left" width="25%">Area</th>
+<th align="left" width="75%">Tools and Technologies</th>
+</tr>
+<tr>
+<td>Cloud</td>
+<td>Microsoft Azure, Azure Networking, Azure Storage, Security, Monitoring</td>
+</tr>
+<tr>
+<td>Systems</td>
+<td>Linux, Bash, Git, GitHub</td>
+</tr>
+<tr>
+<td>DevOps</td>
+<td>Docker, Kubernetes — currently learning</td>
+</tr>
+<tr>
+<td>AI & Data</td>
+<td>Data Annotation, AI Evaluation, Research, Data Collection</td>
+</tr>
+<tr>
+<td>Analytics</td>
+<td>Microsoft Excel, Power BI</td>
+</tr>
+<tr>
+<td>Customer Support</td>
+<td>Halo ITSM, Zendesk, Zoom Workforce, Salesforce, HubSpot, Jira Management System</td>
+</tr>
+<tr>
+<td>AI Work Platforms</td>
+<td>Turing, Blend, Micro1, SME Careers, Passiflora AI</td>
+</tr>
+</table>
 
 ---
 
@@ -107,26 +132,47 @@ My background also includes AI data operations, customer support, research, and 
 
 ### Microsoft Applied Skills
 
-| Credential | Verification |
-|---|---|
-| Configure secure access to your workloads using Azure networking | [View credential](https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/) |
-| Get started with cloud security and monitoring tasks | [View credential](https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/) |
-| Secure storage for Azure Files and Azure Blob Storage | [View credential](https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/) |
-| Get started with Azure management tasks | [View credential](https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/) |
-| Accelerate AI-assisted development by using GitHub Copilot | [View credential](https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/) |
-| Resolve GitHub issues by using GitHub Copilot | [View credential](https://learn.microsoft.com/en-gb/users/preciousuchechukwunwafor-0704/credentials/524c2b188297d5d6?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
+<table width="100%">
+<tr>
+<td width="80%">Configure secure access to your workloads using Azure networking</td>
+<td width="20%" align="center"><a href="https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/">View credential ↗</a></td>
+</tr>
+<tr>
+<td>Get started with cloud security and monitoring tasks</td>
+<td align="center"><a href="https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/">View credential ↗</a></td>
+</tr>
+<tr>
+<td>Secure storage for Azure Files and Azure Blob Storage</td>
+<td align="center"><a href="https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/">View credential ↗</a></td>
+</tr>
+<tr>
+<td>Get started with Azure management tasks</td>
+<td align="center"><a href="https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/">View credential ↗</a></td>
+</tr>
+<tr>
+<td>Accelerate AI-assisted development by using GitHub Copilot</td>
+<td align="center"><a href="https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/">View credential ↗</a></td>
+</tr>
+<tr>
+<td>Resolve GitHub issues by using GitHub Copilot</td>
+<td align="center"><a href="https://learn.microsoft.com/en-gb/users/preciousuchechukwunwafor-0704/credentials/524c2b188297d5d6?ref=https%3A%2F%2Fwww.linkedin.com%2F">View credential ↗</a></td>
+</tr>
+</table>
 
 ### Cloud Native
 
-| Credential | Verification |
-|---|---|
-| Kubernetes and Cloud Native Associate (KCNA) | [View credential](https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/) |
+<table width="100%">
+<tr>
+<td width="80%">Kubernetes and Cloud Native Associate (KCNA)</td>
+<td width="20%" align="center"><a href="https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/">View credential ↗</a></td>
+</tr>
+</table>
 
 ---
 
 ## Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -136,7 +182,7 @@ Hands-on learning focused on Azure virtual networking, secure access, and cloud 
 
 **Topics:** Azure Networking · Security · Infrastructure
 
-[Explore my GitHub](https://github.com/PreciousNwafor)
+[Explore GitHub](https://github.com/PreciousNwafor)
 
 </td>
 <td width="50%" valign="top">
@@ -147,7 +193,7 @@ A practical reference for Linux commands, system navigation, file management, pe
 
 **Topics:** Linux · Bash · Troubleshooting
 
-[Explore my GitHub](https://github.com/PreciousNwafor)
+[Explore GitHub](https://github.com/PreciousNwafor)
 
 </td>
 </tr>
@@ -155,15 +201,46 @@ A practical reference for Linux commands, system navigation, file management, pe
 
 ---
 
+## AI Data Operations & Quality
+
+I have worked across AI data workflows involving annotation, evaluation, and quality-focused tasks, including text, image, and video data.
+
+**Platforms and project environments:**
+
+- Turing
+- Blend
+- Micro1
+- SME Careers
+- Passiflora AI
+
+My focus includes following task guidelines, maintaining annotation consistency, reviewing model outputs, and supporting structured data workflows.
+
+---
+
+## Customer Success & Support
+
+I bring experience in customer communication, issue handling, client coordination, and operational support.
+
+**Tools and systems:**
+
+- Halo ITSM
+- Zendesk
+- Zoom Workforce
+- Salesforce
+- HubSpot
+- Jira Management System
+
+---
+
 ## GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PreciousNwafor&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub statistics"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=PreciousNwafor&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreciousNwafor&layout=compact&hide_border=true&theme=tokyonight" alt="Most used repository languages"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreciousNwafor&layout=compact&hide_border=true&theme=tokyonight" alt="Most used repository languages"/>
 
-<img src="https://streak-stats.demolab.com?user=PreciousNwafor&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=PreciousNwafor&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
