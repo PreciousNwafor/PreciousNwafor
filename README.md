@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Precious Nwafor profile banner"/>
+<img src="./Banner%20Image.jpg" width="100%" alt="Precious Nwafor profile banner"/>
 
 # Precious Uchechukwu Nwafor
 
