@@ -94,35 +94,31 @@ My background also includes AI data operations, customer support, research, and 
 <table width="100%">
 <tr>
 <th align="left" width="25%">Area</th>
-<th align="left" width="75%">Tools and Technologies</th>
+<th align="left" width="75%">Tools & Technologies</th>
 </tr>
 <tr>
-<td>Cloud</td>
-<td>Microsoft Azure, Azure Networking, Azure Storage, Security, Monitoring</td>
+<td>Cloud Engineering</td>
+<td>Microsoft Azure · Azure Networking · Azure Storage · Security · Monitoring</td>
 </tr>
 <tr>
-<td>Systems</td>
-<td>Linux, Bash, Git, GitHub</td>
+<td>Systems & DevOps</td>
+<td>Linux · Bash · Git · GitHub · Docker (learning) · Kubernetes (learning)</td>
 </tr>
 <tr>
-<td>DevOps</td>
-<td>Docker, Kubernetes — currently learning</td>
-</tr>
-<tr>
-<td>AI & Data</td>
-<td>Data Annotation, AI Evaluation, Research, Data Collection</td>
+<td>AI Data Operations</td>
+<td>Data Annotation · Image & Video Annotation · AI Evaluation · Research · Data Collection</td>
 </tr>
 <tr>
 <td>Analytics</td>
-<td>Microsoft Excel, Power BI</td>
+<td>Microsoft Excel · Power BI</td>
 </tr>
 <tr>
 <td>Customer Support</td>
-<td>Halo ITSM, Zendesk, Zoom Workforce, Salesforce, HubSpot, Jira Management System</td>
+<td>Halo ITSM · Zendesk · Zoom Workforce · Salesforce · HubSpot · Jira Management System</td>
 </tr>
 <tr>
 <td>AI Work Platforms</td>
-<td>Turing, Blend, Micro1, SME Careers, Passiflora AI</td>
+<td>Turing · Blend · Micro1 · SME Careers · Passiflora AI</td>
 </tr>
 </table>
 
@@ -132,41 +128,16 @@ My background also includes AI data operations, customer support, research, and 
 
 ### Microsoft Applied Skills
 
-<table width="100%">
-<tr>
-<td width="80%">Configure secure access to your workloads using Azure networking</td>
-<td width="20%" align="center"><a href="https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/">View credential ↗</a></td>
-</tr>
-<tr>
-<td>Get started with cloud security and monitoring tasks</td>
-<td align="center"><a href="https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/">View credential ↗</a></td>
-</tr>
-<tr>
-<td>Secure storage for Azure Files and Azure Blob Storage</td>
-<td align="center"><a href="https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/">View credential ↗</a></td>
-</tr>
-<tr>
-<td>Get started with Azure management tasks</td>
-<td align="center"><a href="https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/">View credential ↗</a></td>
-</tr>
-<tr>
-<td>Accelerate AI-assisted development by using GitHub Copilot</td>
-<td align="center"><a href="https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/">View credential ↗</a></td>
-</tr>
-<tr>
-<td>Resolve GitHub issues by using GitHub Copilot</td>
-<td align="center"><a href="https://learn.microsoft.com/en-gb/users/preciousuchechukwunwafor-0704/credentials/524c2b188297d5d6?ref=https%3A%2F%2Fwww.linkedin.com%2F">View credential ↗</a></td>
-</tr>
-</table>
+- **Configure secure access to your workloads using Azure networking** — [View credential ↗](https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/)
+- **Get started with cloud security and monitoring tasks** — [View credential ↗](https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/)
+- **Secure storage for Azure Files and Azure Blob Storage** — [View credential ↗](https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/)
+- **Get started with Azure management tasks** — [View credential ↗](https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/)
+- **Accelerate AI-assisted development by using GitHub Copilot** — [View credential ↗](https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/)
+- **Resolve GitHub issues by using GitHub Copilot** — [View credential ↗](https://learn.microsoft.com/en-gb/users/preciousuchechukwunwafor-0704/credentials/524c2b188297d5d6?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 ### Cloud Native
 
-<table width="100%">
-<tr>
-<td width="80%">Kubernetes and Cloud Native Associate (KCNA)</td>
-<td width="20%" align="center"><a href="https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/">View credential ↗</a></td>
-</tr>
-</table>
+- **Kubernetes and Cloud Native Associate (KCNA)** — [View credential ↗](https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/)
 
 ---
 
@@ -207,11 +178,7 @@ I have worked across AI data workflows involving annotation, evaluation, and qua
 
 **Platforms and project environments:**
 
-- Turing
-- Blend
-- Micro1
-- SME Careers
-- Passiflora AI
+Turing · Blend · Micro1 · SME Careers · Passiflora AI
 
 My focus includes following task guidelines, maintaining annotation consistency, reviewing model outputs, and supporting structured data workflows.
 
@@ -223,12 +190,7 @@ I bring experience in customer communication, issue handling, client coordinatio
 
 **Tools and systems:**
 
-- Halo ITSM
-- Zendesk
-- Zoom Workforce
-- Salesforce
-- HubSpot
-- Jira Management System
+Halo ITSM · Zendesk · Zoom Workforce · Salesforce · HubSpot · Jira Management System
 
 ---
 
@@ -236,11 +198,11 @@ I bring experience in customer communication, issue handling, client coordinatio
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=PreciousNwafor&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub statistics"/>
+<img width="100%" height="150" src="https://github-readme-stats.vercel.app/api?username=PreciousNwafor&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreciousNwafor&layout=compact&hide_border=true&theme=tokyonight" alt="Most used repository languages"/>
+<img width="100%" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreciousNwafor&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Most used repository languages"/>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=PreciousNwafor&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=PreciousNwafor&theme=tokyonight&hide_border=true&card_width=700&card_height=140" alt="GitHub contribution streak"/>
 
 </div>
 
