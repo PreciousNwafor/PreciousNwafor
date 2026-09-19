@@ -3,12 +3,6 @@
 
 <img src="./Banner%20Image.jpg" width="100%" alt="Precious Nwafor profile banner"/>
 
-# Precious Uchechukwu Nwafor
-
-### Associate Cloud Engineer · DevOps Enthusiast
-
-**AI Data Operations · Cloud Support · Customer Success**
-
 <p>
   <a href="https://www.linkedin.com/in/precious-nwafor-99756a35a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect"/>
