@@ -19,11 +19,11 @@
 </table>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Associate+Cloud+Engineer;DevOps+Enthusiast;AI+Data+Operations;Customer+Success+%26+Support"
-       alt="Animated professional titles" />
-</div>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Associate+Cloud+Engineer;DevOps+Enthusiast;AI+Data+Operations;Customer+Success+%26+Support"
+     alt="Animated professional titles" />
+
+<br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/precious-nwafor-99756a35a/)
 [![DEV.to](https://img.shields.io/badge/DEV.to-Read%20My%20Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/precious_nwafor)
@@ -34,13 +34,13 @@
 
 ## 👋 About Me
 
-Hello! I am **Precious Uchechukwu Nwafor**, an Associate Cloud Engineer and technology professional developing practical skills across cloud infrastructure, DevOps, AI data operations, and customer success.
+Hello! I am **Precious Uchechukwu Nwafor**, an Associate Cloud Engineer and technology professional building practical skills across cloud infrastructure, DevOps, AI data operations, and customer success.
 
-With experience across customer support, communications, research, and operations, I enjoy solving problems, documenting processes, and turning knowledge into practical solutions.
+With over seven years of experience across customer support, communications, research, and operations, I enjoy solving problems, documenting processes, and turning knowledge into practical solutions.
 
 - ☁️ **Cloud Engineering:** Building hands-on experience with Microsoft Azure.
 - 🛠️ **DevOps:** Developing skills in Linux, Git, GitHub, Docker, and Kubernetes.
-- 🤖 **AI Data Operations:** Working across annotation, evaluation, research, and data workflows.
+- 🤖 **AI Data Operations:** Experience with annotation, evaluation, research, and data workflows.
 - 💼 **Customer Success:** Supporting customers and teams through communication, coordination, and service-focused operations.
 - 📚 **Continuous Learning:** Strengthening my technical capabilities through practical projects and professional credentials.
 
@@ -144,12 +144,16 @@ I bring a customer-focused approach to communication, issue handling, coordinati
 
 ### Customer Support & Operations Tools
 
-- Halo ITSM
-- Zendesk
-- Zoom Workforce
-- Salesforce
-- HubSpot
-- Jira Management System
+<div align="center">
+
+![Halo ITSM](https://img.shields.io/badge/Halo%20ITSM-Support-2563EB?style=flat-square)
+![Zendesk](https://img.shields.io/badge/Zendesk-Customer%20Support-03363D?style=flat-square)
+![Zoom Workforce](https://img.shields.io/badge/Zoom%20Workforce-Operations-2D8CFF?style=flat-square)
+![Salesforce](https://img.shields.io/badge/Salesforce-CRM-00A1E0?style=flat-square)
+![HubSpot](https://img.shields.io/badge/HubSpot-CRM-FF7A59?style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-Project%20Management-0052CC?style=flat-square)
+
+</div>
 
 ---
 
