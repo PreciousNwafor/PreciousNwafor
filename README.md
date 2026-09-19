@@ -1,99 +1,84 @@
 
-<!-- ===================================================== -->
-<!-- PROFILE HEADER: PHOTO LEFT + WAVY BLUE BANNER RIGHT -->
-<!-- ===================================================== -->
-
-<table>
-  <tr>
-    <td width="25%" align="center" valign="middle">
-      <img src="./YOUR-PHOTO-FILENAME.jpg"
-           width="180"
-           alt="Precious Uchechukwu Nwafor" />
-    </td>
-    <td width="75%" align="center" valign="middle">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:123C69,60:168AAD,100:2196F3&height=230&section=header&text=Precious%20Uchechukwu%20Nwafor&fontSize=30&fontColor=FFFFFF&fontAlignY=38&desc=Cloud%20Engineering%20%7C%20DevOps%20%7C%20AI%20Data%20Operations&descAlignY=60&descSize=15"
-           width="100%"
-           alt="Precious Nwafor — Cloud Engineering, DevOps and AI Data Operations" />
-    </td>
-  </tr>
-</table>
+<!--
+  Precious Uchechukwu Nwafor | GitHub Profile README
+  Replace the banner URL below with your existing uploaded banner URL
+  if you want to use that exact image.
+-->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Associate+Cloud+Engineer;DevOps+Enthusiast;AI+Data+Operations;Customer+Success+%26+Support"
-     alt="Animated professional titles" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A3D,45:123C78,100:2496ED&height=190&section=header&text=Precious%20Nwafor&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20AI%20Data%20Operations&descAlignY=60&descSize=16" width="100%" alt="Blue futuristic wave banner"/>
 
-<br />
+# Precious Uchechukwu Nwafor
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/precious-nwafor-99756a35a/)
-[![DEV.to](https://img.shields.io/badge/DEV.to-Read%20My%20Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/precious_nwafor)
+### Associate Cloud Engineer | DevOps Enthusiast | AI Data Operations | Customer Success
+
+<p>
+  <a href="https://www.linkedin.com/in/precious-nwafor-99756a35a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://dev.to/precious_nwafor">
+    <img src="https://img.shields.io/badge/DEV.to-Read%20My%20Posts-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to"/>
+  </a>
+  <a href="https://github.com/PreciousNwafor">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 👋 About Me
+## About Me
 
-Hello! I am **Precious Uchechukwu Nwafor**, an Associate Cloud Engineer and technology professional building practical skills across cloud infrastructure, DevOps, AI data operations, and customer success.
+I am an **Associate Cloud Engineer and DevOps enthusiast** building practical skills across cloud infrastructure, Linux, automation, and AI-enabled workflows.
 
-With over seven years of experience across customer support, communications, research, and operations, I enjoy solving problems, documenting processes, and turning knowledge into practical solutions.
+My learning journey combines hands-on cloud labs with experience in AI data operations, customer support, research, and business operations. I enjoy turning complex tasks into clear, structured, and repeatable workflows.
 
-- ☁️ **Cloud Engineering:** Building hands-on experience with Microsoft Azure.
-- 🛠️ **DevOps:** Developing skills in Linux, Git, GitHub, Docker, and Kubernetes.
-- 🤖 **AI Data Operations:** Experience with annotation, evaluation, research, and data workflows.
-- 💼 **Customer Success:** Supporting customers and teams through communication, coordination, and service-focused operations.
-- 📚 **Continuous Learning:** Strengthening my technical capabilities through practical projects and professional credentials.
-
-> **My guiding principle:** Real learning happens in the labs. Build, test, document, and improve — one commit at a time.
-
----
-
-## 🧰 Skills & Tools
-
-<table>
-  <tr>
-    <td width="25%"><strong>☁️ Cloud</strong></td>
-    <td>Microsoft Azure, Azure Networking, Azure Storage, Cloud Security, Cloud Management</td>
-  </tr>
-  <tr>
-    <td><strong>🖥️ Systems</strong></td>
-    <td>Linux, Command-Line Operations, Troubleshooting</td>
-  </tr>
-  <tr>
-    <td><strong>🔧 DevOps</strong></td>
-    <td>Git, GitHub, Docker, Kubernetes Fundamentals, Deployment Workflows</td>
-  </tr>
-  <tr>
-    <td><strong>🤖 AI & Data</strong></td>
-    <td>Data Annotation, Image and Video Annotation, AI Evaluation, Research, Data Collection</td>
-  </tr>
-  <tr>
-    <td><strong>💼 Customer Support</strong></td>
-    <td>Halo ITSM, Zendesk, Zoom Workforce, Salesforce, HubSpot, Jira Management System</td>
-  </tr>
-  <tr>
-    <td><strong>📊 Productivity</strong></td>
-    <td>Microsoft Excel, Word, PowerPoint</td>
-  </tr>
-</table>
+- ☁️ Developing practical skills in **Microsoft Azure and cloud infrastructure**
+- 🐧 Working with **Linux, Bash, Git, and GitHub**
+- 🤖 Contributing to **AI data annotation, evaluation, and quality workflows**
+- 📊 Building knowledge in **data analytics, reporting, and operational insights**
+- 🔧 Exploring **Docker, Kubernetes, and DevOps practices**
+- 🎯 Interested in reliable cloud systems, automation, and AI-assisted operations
 
 ---
 
-## ☁️ Cloud Engineering & DevOps
+## Technical Toolkit
 
-I am developing practical experience in cloud infrastructure, identity and access, security, and modern DevOps practices.
+### Cloud & Infrastructure
 
-- Configure and explore Azure networking and storage services.
-- Practice cloud security, monitoring, and management tasks.
-- Work with Linux command-line tools and troubleshooting.
-- Use Git and GitHub for version control and collaboration.
-- Build foundational knowledge of Docker, Kubernetes, and deployment workflows.
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
+  <img src="https://img.shields.io/badge/Cloud%20Networking-2563EB?style=flat-square" alt="Cloud Networking"/>
+  <img src="https://img.shields.io/badge/Azure%20Storage-0078D4?style=flat-square" alt="Azure Storage"/>
+  <img src="https://img.shields.io/badge/Monitoring%20%26%20Governance-475569?style=flat-square" alt="Monitoring and Governance"/>
+</p>
+
+### Systems & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker learning"/>
+  <img src="https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes learning"/>
+</p>
+
+### AI, Data & Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20Data%20Annotation-7C3AED?style=flat-square" alt="AI Data Annotation"/>
+  <img src="https://img.shields.io/badge/AI%20Evaluation-6D28D9?style=flat-square" alt="AI Evaluation"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+</p>
 
 ---
 
-## 🎓 Microsoft Applied Skills & Credentials
-
-I continue to validate my technical skills through hands-on learning and Microsoft Applied Skills credentials.
+## Certifications & Credentials
 
 ### Microsoft Applied Skills
 
@@ -101,99 +86,90 @@ I continue to validate my technical skills through hands-on learning and Microso
 - Get started with cloud security and monitoring tasks
 - Secure storage for Azure Files and Azure Blob Storage
 - Get started with Azure management tasks
-- Get started with identities and access using Microsoft Entra
-- Administer Active Directory Domain Services
 - Accelerate AI-assisted development by using GitHub Copilot
 - Resolve GitHub issues by using GitHub Copilot
 
-### Additional Credential
+### Cloud Native
 
-- **Kubernetes and Cloud Native Associate (KCNA)** — The Linux Foundation / CNCF
+- **Kubernetes and Cloud Native Associate (KCNA)** — The Linux Foundation / CNCF  
+  Issued July 30, 2026
 
-[View my certifications on LinkedIn](https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/)
+<p>
+  <a href="https://www.linkedin.com/in/precious-nwafor-99756a35a/details/certifications/">
+    <img src="https://img.shields.io/badge/View%20Credentials-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="View credentials"/>
+  </a>
+</p>
 
 ---
 
-## 🤖 AI Data Operations
+## Projects & Hands-on Learning
 
-My AI and data workflow experience includes:
+> Practical projects and learning exercises focused on building, documenting, and strengthening technical skills.
 
-- Data annotation and labeling.
-- Image and video annotation.
-- AI response evaluation and quality review.
-- Research and data collection.
-- Following detailed task guidelines to support accuracy and consistency.
+### ☁️ Secure Azure Virtual Network Architecture
+Exploring Azure networking concepts, secure access, and infrastructure configuration through hands-on practice.
 
-### Platforms
+### 🐧 Linux Administration & Core Commands
+Building a practical reference for Linux commands, system navigation, file management, permissions, and troubleshooting.
+
+### 🔧 DevOps Learning Path
+Developing foundational skills with Git, GitHub, Linux, Docker, and Kubernetes as part of my ongoing cloud and DevOps learning journey.
+
+---
+
+## AI Data Operations & Quality
+
+I have worked across AI data workflows involving annotation, evaluation, and quality-focused tasks, including text, image, and video data.
+
+**Platforms and project environments:**
+
+- Turing
+- Blend
+- Micro1
+- SME Careers
+- Passiflora AI
+
+My focus includes following task guidelines, maintaining annotation consistency, reviewing model outputs, and supporting structured data workflows.
+
+---
+
+## Customer Success & Support
+
+I bring experience in customer communication, issue handling, client coordination, and operational support.
+
+**Tools and systems:**
+
+- Halo ITSM
+- Zendesk
+- Zoom Workforce
+- Salesforce
+- HubSpot
+- Jira Management System
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-![Turing](https://img.shields.io/badge/Turing-AI%20Workflows-2563EB?style=flat-square)
-![Blend](https://img.shields.io/badge/Blend-Data%20Annotation-0EA5E9?style=flat-square)
-![Micro1](https://img.shields.io/badge/Micro1-AI%20Tasks-6366F1?style=flat-square)
-![SME Careers](https://img.shields.io/badge/SME%20Careers-Data%20Projects-0891B2?style=flat-square)
-![Passiflora AI](https://img.shields.io/badge/Passiflora%20AI-AI%20Workflows-0D9488?style=flat-square)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PreciousNwafor&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub profile statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreciousNwafor&layout=compact&hide_border=true&theme=tokyonight" alt="Most used GitHub languages"/>
+
+<img src="https://streak-stats.demolab.com?user=PreciousNwafor&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## 💼 Customer Success & Support
+## What I’m Working Toward
 
-I bring a customer-focused approach to communication, issue handling, coordination, and service operations.
-
-### Customer Support & Operations Tools
+My goal is to grow into roles that bring together **cloud engineering, DevOps, AI operations, and data-informed problem solving**—while continuing to build practical projects and strengthen my technical foundation.
 
 <div align="center">
 
-![Halo ITSM](https://img.shields.io/badge/Halo%20ITSM-Support-2563EB?style=flat-square)
-![Zendesk](https://img.shields.io/badge/Zendesk-Customer%20Support-03363D?style=flat-square)
-![Zoom Workforce](https://img.shields.io/badge/Zoom%20Workforce-Operations-2D8CFF?style=flat-square)
-![Salesforce](https://img.shields.io/badge/Salesforce-CRM-00A1E0?style=flat-square)
-![HubSpot](https://img.shields.io/badge/HubSpot-CRM-FF7A59?style=flat-square)
-![Jira](https://img.shields.io/badge/Jira-Project%20Management-0052CC?style=flat-square)
+### Learn. Build. Improve. Repeat.
 
-</div>
-
----
-
-## 🚀 Projects & Hands-On Learning
-
-I use practical projects to strengthen my understanding of cloud engineering, DevOps, and AI workflows.
-
-| Project | Focus |
-|---|---|
-| Cloud Engineering Labs | Azure infrastructure and cloud fundamentals |
-| DevOps Practice | Linux, Git, GitHub, and deployment workflows |
-| AI Data Operations | Annotation, evaluation, and quality workflows |
-
-<div align="center">
-
-[![Explore Repositories](https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PreciousNwafor?tab=repositories)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Precious%20Nwafor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/precious-nwafor-99756a35a/)
-[![DEV.to](https://img.shields.io/badge/DEV.to-Technical%20Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/precious_nwafor)
-
-</div>
-
----
-
-<div align="center">
-
-### 💙 Thanks for visiting my profile!
-
-*Learning continuously. Building practically. Growing with every project.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,50:168AAD,100:0D1117&height=110&section=footer"
-     width="100%"
-     alt="Blue wavy footer" />
+<img src="https://komarev.com/ghpvc/?username=PreciousNwafor&style=flat-square&color=2563EB&label=Profile%20views" alt="Profile views"/>
 
 </div>
